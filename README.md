@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SakshiRa
+- 👋 Hi, I’m Sakshi Rathi
 - 👀 I’m interested in DevOps and Reliablitity Engineering
 - 🌱 I’m currently learning Linux, OS and AWS
 - 💞️ I’m looking to collaborate on Anything!
