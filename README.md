@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sakshi Rathi
-- 👀 I’m interested in DevOps and Reliablitity Engineering
+- 👀 I’m interested in Machine Learning, AI, DevOps and Reliablitity Engineering
 - 🌱 I’m currently learning Linux, OS and AWS
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me sakshirathi360@gmail.com
